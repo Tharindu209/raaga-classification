@@ -1,8 +1,3 @@
 /.dist
-/analysis.ipynb
-/data
-/data.csv
-/model.ipynb
-/preprocessing.ipynb
 /raaga
-/saved_models
+/data
